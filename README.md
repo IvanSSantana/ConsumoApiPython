@@ -1,2 +1,2 @@
 # ConsumoApiPython
-Um projeto simples onde coloco em prática todo meu conhecimento adquirido sobre o essencial de protocolo HTTP, verbos e códigos do mesmo.
+Um projeto simples onde coloco em prática todo meu conhecimento adquirido sobre o essencial de protocolo HTTP, verbos e códigos do mesmo; consumindo uma API feita com NodeJS, Express e SQLite do seguinte link: https://github.com/luizomf/simple_api_rest_sqlite do professor Otávio Miranda. Esse projeto foi realizado durante meu curso de Python desse professor.
